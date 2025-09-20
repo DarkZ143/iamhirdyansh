@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 "use client";
 
 import { Github, Linkedin, Twitter, Mail } from "lucide-react";
@@ -90,21 +91,9 @@ export default function Footer() {
         {/* Subscribe */}
         <div>
           <h3 className="text-lg font-semibold text-cyan-400 mb-4">
-            Stay Updated
+            I'm Here to Showcase my skills!
           </h3>
-          <form onSubmit={(e) => e.preventDefault()} className="flex">
-            <input
-              type="email"
-              placeholder="Enter your email"
-              className="flex-1 px-3 py-2 rounded-l-md bg-gray-800 border border-cyan-400/30 focus:outline-none text-white"
-            />
-            <button
-              type="submit"
-              className="bg-cyan-500 text-black px-4 py-2 rounded-r-md hover:bg-cyan-400 transition"
-            >
-              Subscribe
-            </button>
-          </form>
+          
         </div>
       </div>
 

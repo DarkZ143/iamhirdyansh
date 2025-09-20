@@ -36,21 +36,21 @@ export default function AboutPage() {
                     <Card title="Education" icon={<GraduationCap className="w-6 h-6" />}>
                         <ul className="space-y-3">
                             <li>
-                                🎓 Diploma in Computer Science & Engineering —{" "}
+                                🎓 BTech in Information Technology —{" "}
                                 <span className="text-cyan-300">
-                                    R.R. Institute of Modern Polytechnic (2025)
+                                    Bits Pilani Institute of Technology (2025-2027)
                                 </span>
                             </li>
                             <li>
                                 📘 Intermediate (Class XII) —{" "}
                                 <span className="text-cyan-300">
-                                    C.I.V.P.S.V.M Inter College (2022)
+                                    C.L.V.P.S.V.M Inter College (2022)
                                 </span>
                             </li>
                             <li>
                                 📗 Matriculation (Class X) —{" "}
                                 <span className="text-cyan-300">
-                                    C.I.V.P.S.V.M Inter College (2020)
+                                    C.L.V.P.S.V.M Inter College (2020)
                                 </span>
                             </li>
                         </ul>
