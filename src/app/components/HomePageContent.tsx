@@ -13,11 +13,11 @@ export default function Hero() {
           Hi, I&apos;m <span className="text-5xl font-extrabold bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-500 bg-clip-text text-transparent drop-shadow-lg">Hirdyansh Singh</span>
         </h1>
         <h2 className="mt-3 text-2xl md:text-3xl font-semibold text-gray-300">
-          Software Engineer @ Wipro
+          Cloud Engineer @ Wipro
         </h2>
         <p className="mt-6 text-gray-400 max-w-xl">
-          I craft scalable software solutions, blending code with creativity.
-          Focused on building impactful products using real-world tech.
+          I craft scalable solutions in Cloud Technologies.
+          Focused on building impactful products using real-world tech like AWS and Azure.
         </p>
 
         <div className="mt-8 flex gap-4 justify-center md:justify-start">
